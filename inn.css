@@ -1,0 +1,56 @@
+div{
+  background-image: url(./images/download.png);
+  border-style: double;
+  border-image: fill;
+  margin: 10px 0px;
+  padding: 10px 0px;
+  position: relative;
+  border-radius: 30px;
+  
+  background-repeat: no-repeat;
+background-position: center;
+
+
+}
+.save{
+  padding: 10px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  font-size:xx-large;
+  text-indent: 0px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: cornflowerblue;  
+}
+.ft{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+.RING{
+  text-align: center;
+  font-family:cursive;
+  font-size: large;
+}
+.g{
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+.and{
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+.b{
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+.date{
+  text-align: center;
+  font-family: sans-serif;
+}
+footer{
+  text-align: center;
+  font-family:sans-serif;
+}
